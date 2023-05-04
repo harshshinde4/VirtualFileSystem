@@ -1,0 +1,67 @@
+
+
+////////////////////////////////////////////
+Designed a virtual file system in C that incorporates necessary data structures such as the File table, Inode table, User file Descriptor table, and UAREA to provide standard Unix/Linux file system functionalities. 
+It provides the necessary system calls, commands, and FS implementations via a customized shell.
+
+
+
+
+
+- In This Project I Emulate All Data Structures Which Are Used By Operating System To Manage File System Oriented Tasks.
+
+- As The Name Suggests Its Virtual Because I Maintain All The Records In Primary Storage (RAM).
+
+- In This Project I Create All Data Structures Which Required For File Subsystems As : FT, UAREA, UFDT, SB, DILB, DB etc.
+
+- I Provide All Implementations Of Necessary System Calls And Commands Of File subsystem As : Open, Close, Read, Write, Lseek, 		Create, RM, LS, Stat, Fstat etc.
+
+- While Creating This Project All Above Functionality I Use Our Own Data Structures By Referring Algorithms of UNIX Operating 		System.
+
+- By Using This Project I Can Get Overview Of UFS (UNIX File System) On Any Platform.
+
+
+-------------------OR------------------
+
+- Designed a customized virtual file system using C programming to provide common functionalities of Linux/Unix File systems.
+
+- It provides the necessory commands, system calls, & implementations of file system through customized shell.
+
+- Implemented all necessory data structures of file system like File table, Inode table, User file Descriptor table, UAREA, etc. 
+
+
+////////////////////////////////////////////////
+
+Designed a customized virtual file system in C to provide common Unix/Linux file system functionalities.
+It provides essential commands, system calls, and file system implementations through a customized shell by Implementing the essential file system data structures such as the File table, Inode table, User file Descriptor table, UAREA, and the like.
+
+---------------------
+
+Designed a virtual file system in C that incorporates necessary data structures such as the File table, Inode table, User file Descriptor table, and UAREA to provide standard Unix/Linux file system functionalities. 
+It provides the necessary system calls, commands, and FS implementations via a customized shell.
+
+//////////////////////////////////////////////////
+
+The project created a virtual customized file system in C programming to provide common functionalities of Linux/Unix file systems. It utilized data structures like file table, inode table, and user file descriptor table, with implementations of system calls and commands such as open, close, read, write, lseek, create, rm, ls, stat, and fstat.
+
+/////////////////////////////////////////////////
+
+This project created a virtual customized file system using C programming that emulates the data structures used by the operating system to manage file system tasks. It provides necessary commands and system calls and stores records in primary storage (RAM), allowing an overview of UNIX File System on any platform.
+
+//////////////////////////////////////////////////////
+
+A customized virtual file system was designed using C programming to provide similar functionalities to Linux/Unix file systems. The system includes necessary data structures, shell commands, and system calls like open, close, read, and write.
+
+//////////////////////////////////////////////////
+
+A customized virtual file system was designed using C programming to provide common functionalities of Linux/Unix file systems, including necessary data structures, system calls, and commands. All the necessary features such as open, close, read, write, and others were implemented and stored in primary storage (RAM).
+
+//////////////////////////////////////////
+
+A virtual customized file system was designed using C programming that includes necessary data structures, system calls, and commands of file subsystems like file table, inode table, and user file descriptor table. The system provides similar functionalities as Linux/Unix file systems through a customized shell.
+
+////////////////////////////////////////////////
+
+A customized virtual file system was designed using C programming to provide necessary commands, system calls, and implementations of Linux/Unix file systems through a customized shell. It includes necessary data structures like File table, Inode table, User file Descriptor table, UAREA, etc.
+
+///////////////////////////////////////////////
